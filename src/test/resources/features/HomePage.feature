@@ -1,4 +1,4 @@
-@HomePage
+@HomePage @Regression
 Feature: Homepage Validations
  
 

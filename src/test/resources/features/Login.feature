@@ -1,4 +1,4 @@
-@Login
+@Login @Regression
 Feature: Login Validations
  
 
